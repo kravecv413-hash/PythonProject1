@@ -1,0 +1,9 @@
+id,channel,status,amount
+1,email,paid,5000
+2,email,new,0
+3,call,paid,3000
+4,call,contacted,0
+5,web,new,0
+6,web,paid,7000
+7,email,new,0
+8,call,new,0
